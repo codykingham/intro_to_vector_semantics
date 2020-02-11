@@ -1,4 +1,4 @@
-# Where do you Mean? 
+# Where do you mean? 
 ## Using simple semantic vector models for processing corpora
 ### Cody Kingham
 
