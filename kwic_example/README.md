@@ -11,8 +11,8 @@ If you are on a Mac system, you can use homebrew to install ptx by entering:
 
 ## Producing KWIC examples
 
-1. Download the text of the King James Bible from: http://www.gutenberg.org/cache/epub/10/pg10.txt
-2. Place the file in this directory with the title "kjv.txt"
+1. Download the text of War of the Worlds by HG Wells (or other text you want to search): [http://www.gutenberg.org/files/36/36-0.txt](http://www.gutenberg.org/files/36/36-0.txt)
+2. Place the file in this directory with the title "war_of_worlds.txt"
 3. Run the "kwic.sh" script by typing into command line: `sh kwic.sh`
 4. Browse the .txt results
 
