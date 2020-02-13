@@ -1,4 +1,4 @@
-# Keyword in Context (KWIC) Example with KJV
+# Keyword in Context (KWIC) Example with "War of the Worlds"
 
 This directory contains code used to produce a KWIC example for the Lorentz 2020 slideshow. You can reproduce this example if you have `ptx` installed on your machine.
 
