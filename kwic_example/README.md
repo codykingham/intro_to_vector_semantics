@@ -13,8 +13,8 @@ If you are on a Mac system, you can use homebrew to install ptx by entering:
 
 1. Download the text of War of the Worlds by HG Wells (or other text you want to search): [http://www.gutenberg.org/files/36/36-0.txt](http://www.gutenberg.org/files/36/36-0.txt)
 2. Place the file in this directory with the title "war_of_worlds.txt"
-3. Run the "kwic.sh" script by typing into command line: `sh kwic.sh`
-4. Browse the .txt results
+3. Run the "run_kwic.sh" script by typing into command line: `sh run_kwic.sh`
+4. Browse the kwic_example.txt results
 
 ## Change search terms
 
