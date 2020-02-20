@@ -1,8 +1,8 @@
 # Where do you mean? 
 ## Using semantic vector models for processing corpora
 ### Cody Kingham
-
-<a href="https://www.ames.cam.ac.uk/people/mr-cody-kingham" target="_blank"><img src="images/frontmatter/CambridgeU_BW.png" width=20% height=20%></a>
+<a href="https://www.ames.cam.ac.uk/people/mr-cody-kingham" target="_blank"><img src="images/frontmatter/CambridgeU_BW.png" width=20% height=20%></a><br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3676326.svg)](https://doi.org/10.5281/zenodo.3676326)
 
 # Notebooks
 
